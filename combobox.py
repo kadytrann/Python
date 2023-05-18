@@ -24,4 +24,4 @@ combo_box.bind("<<ComboboxSelected>>", on_select)
 combo_box.pack()
 
 #mainloop keeps the root parent window visible
-root.mainloop
+root.mainloop()
